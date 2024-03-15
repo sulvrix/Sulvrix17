@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Sulvrix17
+- 👀 I’m interested in Game Development.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on projects written in C#.
+- 📫 How to reach me, Instagram: Sulvrix_
+- ⚡ Currently studying computer engineering at Hadhramaut University.
