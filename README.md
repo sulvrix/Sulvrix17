@@ -48,4 +48,4 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulvrix17&langs_count=5&theme=tokyonight&border_radius=12&custom_title=Most+Used+Languages:)\
-![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulvrix17&show_icons=true&theme=tokyonight&rank_icon=percentile&border_radius=12&custom_title=Stats:&include_all_commits=true);
+![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulvrix17&show_icons=true&theme=tokyonight&rank_icon=percentile&border_radius=12)
