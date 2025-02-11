@@ -2,7 +2,6 @@
 # 👋 Hi! I am Sultan.
 
 
-![](https://komarev.com/ghpvc/?username=Sulvrix17&style=for-the-badge&color=4a0f0f)
 
 
 
@@ -47,6 +46,8 @@
 
 &nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
+
+![](https://komarev.com/ghpvc/?username=Sulvrix17&style=for-the-badge&color=4a0f0f)
 <div align="center" width="300px">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulvrix17&langs_count=5&theme=tokyonight&border_radius=12&custom_title=Most+Used+Languages:)
