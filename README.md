@@ -2,7 +2,10 @@
 # 👋 Hi! I am Sultan.
 
 
-![image](https://cdn.svgator.com/images/2023/03/animated-geometric-shapes-background.svg)&nbsp;
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
 
 
 
