@@ -45,7 +45,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 
 &nbsp;
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center" width="300px">
   
@@ -54,7 +54,8 @@
 ![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulvrix17&show_icons=true&theme=tokyonight&rank_icon=percentile&border_radius=12&custom_title=Stats:)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sulvrix17&theme=tokyonight&border_radius=12)
-</div>
 
 &nbsp;
 ![](https://komarev.com/ghpvc/?username=Sulvrix17&style=for-the-badge&color=4a0f0f)
+</div>
+
