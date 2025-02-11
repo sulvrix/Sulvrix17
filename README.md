@@ -56,6 +56,7 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sulvrix17&theme=tokyonight&border_radius=12)
 
 &nbsp;
+&nbsp;
 ![](https://komarev.com/ghpvc/?username=Sulvrix17&style=for-the-badge&color=4a0f0f)
 </div>
 
