@@ -46,7 +46,7 @@
 
 &nbsp;
 ## ⚙️ &nbsp;GitHub Analytics
-
+&nbsp;
 <div align="center" width="300px">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulvrix17&langs_count=5&theme=tokyonight&border_radius=12&custom_title=Most+Used+Languages:)
