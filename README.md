@@ -2,10 +2,7 @@
 # 👋 Hi! I am Sultan.
 
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{Sulvrix17}/count.svg" alt="Visitor's Count" />
-</div>
+![](https://komarev.com/ghpvc/?username=Sulvrix17&style=for-the-badge&color=4a0f0f)
 
 
 
