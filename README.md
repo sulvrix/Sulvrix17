@@ -54,11 +54,11 @@
 &nbsp;
 <div align="center" width="300px">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulvrix17&langs_count=5&theme=tokyonight&border_radius=12&custom_title=Most+Used+Languages:)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulvrix&langs_count=5&theme=tokyonight&border_radius=12&custom_title=Most+Used+Languages:)
 
-![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulvrix17&show_icons=true&theme=tokyonight&rank_icon=percentile&border_radius=12&custom_title=Stats:)
+![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulvrix&show_icons=true&theme=tokyonight&rank_icon=percentile&border_radius=12&custom_title=Stats:)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sulvrix17&theme=tokyonight&border_radius=12)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sulvrix&theme=tokyonight&border_radius=12)
 
 &nbsp;
 &nbsp;
