@@ -58,8 +58,6 @@
 
 ![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulvrix&show_icons=true&theme=tokyonight&rank_icon=percentile&border_radius=12&custom_title=Stats:)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sulvrix&theme=tokyonight&border_radius=12)
-
 &nbsp;
 &nbsp;
 ![](https://komarev.com/ghpvc/?username=Sulvrix17&style=for-the-badge&color=4a0f0f)
