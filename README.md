@@ -6,7 +6,7 @@
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
-- 5th Year computer Engineering Student.
+- Computer Engineer.
 - Full Stack Web Developer.
 - Junior Game Developer.
 - UI/UX Designer.
